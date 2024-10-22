@@ -6,12 +6,12 @@ SolveMyProblem is a microservices-based web application developed as part of the
 
 ### Team Members:
 
-    - Kaousias Thanasis
-    - Katsikopoulos Kostis
-    - Malos Vasilis
-    - Markogiannakis Aris
-    - Papanikolaou Ariadni
-    - Tsetsilas Tasos
+    - Kaousias Thanasis (ntua-el20007)
+    - Katsikopoulos Kostis (ntua-el20103, kostiscpp)
+    - Malos Vasilis (ntua-el20207)
+    - Markogiannakis Aris (ntua-el20085)
+    - Papanikolaou Ariadni (ntua-el20097)
+    - Tsetsilas Tasos (ntua-el20160)
 
 The application aims to help users solve complex computational problems without requiring expensive software licenses or hardware. The core functionality of the system involves solving a Vehicle Routing Problem (VRP) using Google OR-Tools for optimization.
 
